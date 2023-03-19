@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ngo/static/css/main.e6c13ad2.css",
+    "main.js": "/ngo/static/js/main.4050b0ae.js",
+    "index.html": "/ngo/index.html",
+    "main.e6c13ad2.css.map": "/ngo/static/css/main.e6c13ad2.css.map",
+    "main.4050b0ae.js.map": "/ngo/static/js/main.4050b0ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4050b0ae.js"
+  ]
+}
